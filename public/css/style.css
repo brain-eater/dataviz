@@ -1,0 +1,17 @@
+svg {
+  border: 1px solid grey;
+}
+
+.axis-label {
+  font-size: 20px;
+  text-anchor: middle;
+}
+
+.y.axis-label {
+  transform: rotate(-90deg)
+}
+.x.axis text{  
+  text-anchor: end;
+  transform: rotate(-40deg);
+}
+
